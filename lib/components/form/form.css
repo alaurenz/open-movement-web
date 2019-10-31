@@ -261,6 +261,10 @@
 
 /* Error message */
 
+.otp .orange-message {
+  background-color: orange;
+}
+
 .otp .error-message {
   margin: 16px;
 }
