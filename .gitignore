@@ -13,7 +13,7 @@ tmp
 coverage
 
 # built example app
-dist
+#dist
 
 # secrets
 config.yml
